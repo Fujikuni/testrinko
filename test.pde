@@ -9,3 +9,7 @@ void setup(){
 void draw(){
 	println(a[int(random(1000))]);
 }
+
+function(){
+	
+}
