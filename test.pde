@@ -13,3 +13,7 @@ void draw(){
 function(){
 	
 }
+
+function2(){
+	
+}
